@@ -1,1 +1,5 @@
 boot.bin
+*.out
+*.o
+*.elf
+*.img
